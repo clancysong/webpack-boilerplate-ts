@@ -4,5 +4,14 @@
   "description": "A frontend boilerplate with Webpack 4, Typescript 3",
   "repository": "git@github.com:clancysong/webpack-boilerplate-ts.git",
   "author": "clancysong <clancysong@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "commitizen": "^4.0.3",
+    "cz-conventional-changelog": "3.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
