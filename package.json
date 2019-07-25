@@ -1,0 +1,8 @@
+{
+  "name": "webpack-boilerplate-ts",
+  "version": "1.0.0",
+  "description": "A frontend boilerplate with Webpack 4, Typescript 3",
+  "repository": "git@github.com:clancysong/webpack-boilerplate-ts.git",
+  "author": "clancysong <clancysong@gmail.com>",
+  "license": "MIT"
+}
